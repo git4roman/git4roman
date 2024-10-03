@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on **Full-Stack projects**
+- 👯 I’m looking to collaborate on **Full-Stack Projects fellowship**
 
 - 💬 Ask me about **react,express,mongodb,html,css,tailwind,node**
 
