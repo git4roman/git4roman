@@ -1,5 +1,7 @@
 <h3 align="center">TU-IOST | Currently a learner of Javascript</h3>
 
+# 💫 About Me:
+
 - 🔭 I’m currently working on **enhancing my skills**
 
 - 🌱 I’m currently learning **MERN**
