@@ -1,4 +1,4 @@
-<h3 align="center">TU-IOST | Currently a learner of Javascript</h3>
+<h3 align="center">TU-IOST | Currently a learner of Web Dev</h3>
 
 # 💫 About Me:
 
