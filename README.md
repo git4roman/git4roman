@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **enhancing my skills**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **ASP NET Core**
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects fellowship**
 
-- 💬 Ask me about **react,express,mongodb,html,css,tailwind,node**
+- 💬 Ask me about **asp net core,react,express,mongodb,html,css,tailwind,node**
 
 - 📫 How to reach me **romanforgit@gmail.com**
 
